@@ -1,0 +1,9 @@
+{{ .DirName }}/bin/
+{{ .DirName }}/obj/
+{{ .DirName }}/{{ .DirName }}/bin/
+{{ .DirName }}/{{ .DirName }}/obj/
+{{ .DirName }}/{{ .DirName }}.Android/bin/
+{{ .DirName }}/{{ .DirName }}.iOS/obj/
+bin/
+obj/
+.vs/
